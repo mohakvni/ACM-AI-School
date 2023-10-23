@@ -1,0 +1,21 @@
+{
+    "Week1" : {
+        "title" : "Week 1"
+    },
+    "Week2" : {
+        "title" : "Week 2",
+        "type": "hidden"
+    },
+    "Week3" : {
+        "title" : "Week 3",
+        "type": "hidden"
+    },
+    "Week4" : {
+        "title" : "Week 4",
+        "type": "hidden"
+    },
+    "Week5" : {
+        "title" : "Week 5",
+        "type": "hidden"
+    }
+}

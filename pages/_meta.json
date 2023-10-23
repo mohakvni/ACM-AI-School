@@ -1,0 +1,11 @@
+{
+    "ai-school": {
+      "title": "Content",
+      "type": "page"
+    },
+    "main-website":{
+        "title":"Main Website",
+        "type":"page",
+        "href": "https://ai.acmucsd.com"
+    }
+  }
